@@ -17,7 +17,7 @@ https://task-planner-app-ieti.web.app/
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/sebastianfrasic/IETI-Lab4.git
+git clone https://github.com/sebastianfrasic/IETI-Lab5.git
 ```
 
 
@@ -37,7 +37,7 @@ npm start
 3. Para el login las credenciales son las siguientes:
 
 **Username:** Sebastian
-**Password:** 1234
+**Password:** 12345
 
 
 
