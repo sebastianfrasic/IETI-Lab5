@@ -1,6 +1,9 @@
 # Lab # 4 - IETI
 # 1.4 Task Planner Project - Front End - Part 2
 
+[![Deploy to Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png?hl=es)](https://task-planner-app-ieti.web.app/)
+
+https://task-planner-app-ieti.web.app/
 
 ### Pre-requisitos 📋
 
