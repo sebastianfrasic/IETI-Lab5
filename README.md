@@ -1,5 +1,5 @@
-# Lab # 4 - IETI
-# 1.4 Task Planner Project - Front End - Part 2
+# Lab # 5 - IETI
+# 1.5 Task Planner PWA
 
 [![Deploy to Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png?hl=es)](https://task-planner-app-ieti.web.app/)
 
